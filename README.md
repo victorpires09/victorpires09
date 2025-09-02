@@ -9,9 +9,6 @@
 
 <p align="left">Welcome to my GitHub. I'm a software engineering student passionate about continuous learning and driving innovation across a variety of projects</p>
 
-###
-
-<h3 align="center">🛠 Language and tools</h3>
 
 <div align="center">
   <b>:hammer_and_wrench: Languages & Tools</b>
