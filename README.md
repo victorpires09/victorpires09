@@ -1,6 +1,11 @@
-<h1 align="center">Hi, I'm Victor Pires</h1>
+<img
+	width="100%"
+	src="https://capsule-render.vercel.app/api?type=waving&color=7700B8&height=100&section=header"
+/>
+<div align="center">
 
-###
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=7700B8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+I'm+Victor+Pires!)](https://git.io/typing-svg)
+</div>
 
 <p align="left">Welcome to my GitHub. I'm a software engineering student passionate about continuous learning and driving innovation across a variety of projects</p>
 
@@ -8,18 +13,12 @@
 
 <h3 align="center">🛠 Language and tools</h3>
 
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="arduino logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <b>:hammer_and_wrench: Languages & Tools</b>
+  <br><br>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,figma&perline=6" />
+  </a>
 </div>
 
 ###
