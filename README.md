@@ -14,7 +14,7 @@
   <b>:hammer_and_wrench: Languages & Tools</b>
   <br><br>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,js,html,css,mysql,figma&perline=6" />
+    <img src="https://skillicons.dev/icons?i=python,arduino,js,html,css,mysql,figma&perline=6" />
   </a>
 </div>
 
